@@ -1,1 +1,1 @@
-# Dragon-Super-C
+# Dragon Super C
